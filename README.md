@@ -1,9 +1,9 @@
-# Keras RetinaNet [![Build Status](https://travis-ci.org/fizyr/keras-retinanet.svg?branch=master)](https://travis-ci.org/fizyr/keras-retinanet) [![DOI](https://zenodo.org/badge/100249425.svg)](https://zenodo.org/badge/latestdoi/100249425)
+# Keras RetinaNet on Stanford Drone Data Set [![Build Status](https://travis-ci.org/fizyr/keras-retinanet.svg?branch=master)](https://travis-ci.org/fizyr/keras-retinanet) [![DOI](https://zenodo.org/badge/100249425.svg)](https://zenodo.org/badge/latestdoi/100249425)
 
 Keras implementation of RetinaNet object detection as described in [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
 
-This code is borrowed from Keras Implementation of this model at https://github.com/fizyr/keras-retinanet
+This code is borrowed from Keras Implementation of this model at https://github.com/fizyr/keras-retinanet and updated to run on Stanford Drone Data Set
 
 ## Installation
 
