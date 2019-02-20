@@ -44,6 +44,7 @@ Note that indexing for pixel values starts at 0.
 The expected format of each line is:
 ```
 path/to/image.jpg,x1,y1,x2,y2,class_name
+```
 
 ### Labels format
 The class name to ID mapping file should contain one mapping per line.
