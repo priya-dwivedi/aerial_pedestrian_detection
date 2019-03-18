@@ -87,3 +87,6 @@ The notebooks are:
 
 I ran inference on one of the videos from Stanford Drone Data Set and shared here as death_circle_output.mp4.
 
+## Error Analysis (add by Priyanka Dwivedi)
+The notebook ResNet50RetinaNet-Error-Analysis.ipynb can be used for error analysis and can help visualize true positive, class mismatch, false positive and false negative predictions
+
