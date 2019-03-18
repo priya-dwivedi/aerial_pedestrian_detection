@@ -46,5 +46,32 @@ Skater:0.0807
 Pedestrian: 0.7059
 Weighted: 0.6376
 
-Version 4 - using data from previous frames to fix class mismatch between biker and pedestrian
+
+Version 5 - new test set and feeeze backbone
+
+Biker: 0.5432
+Car:0.9787
+Bus: 0.4318
+Cart:0.0270
+Skater:0.0913
+Pedestrian: 0.6255
+Weighted: 0.5999
+
+1799 instances of class Biker with average precision: 0.6081
+162 instances of class Car with average precision: 0.9802
+34 instances of class Bus with average precision: 0.8109
+40 instances of class Cart with average precision: 0.1062
+53 instances of class Skater with average precision: 0.2389
+3766 instances of class Pedestrian with average precision: 0.6882
+mAP using the weighted average of precisions among classes: 0.6643
+
+With very first weight
+1799 instances of class Biker with average precision: 0.6209
+162 instances of class Car with average precision: 0.9832
+34 instances of class Bus with average precision: 0.8373
+40 instances of class Cart with average precision: 0.2057
+53 instances of class Skater with average precision: 0.2736
+3766 instances of class Pedestrian with average precision: 0.6825
+mAP using the weighted average of precisions among classes: 0.6658
+
 
