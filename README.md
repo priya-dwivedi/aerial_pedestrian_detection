@@ -37,7 +37,7 @@ Here
 
 ### Training Images
 I uploaded the images used for training and validation to the google drive link below. Please download the same:
-https://drive.google.com/drive/u/0/folders/1bLt6KK_9zKogJdvW-lKh9BnBKgFfvPp9
+https://drive.google.com/drive/u/1/folders/1QpE_iRDq1hUzYNBXSBSnmfe6SgTYE3J4
 
 ### Annotations format
 The CSV file with annotations should contain one annotation per line.
@@ -89,4 +89,8 @@ I ran inference on one of the videos from Stanford Drone Data Set and shared her
 
 ## Error Analysis (add by Priyanka Dwivedi)
 The notebook ResNet50RetinaNet-Error-Analysis.ipynb can be used for error analysis and can help visualize true positive, class mismatch, false positive and false negative predictions
+
+## Trained model
+I have also uploaded my trained model at
+https://drive.google.com/drive/u/1/folders/1QpE_iRDq1hUzYNBXSBSnmfe6SgTYE3J4
 
